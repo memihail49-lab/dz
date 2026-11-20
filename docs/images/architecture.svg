@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="560" viewBox="0 0 1100 560">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#334155"/></marker></defs>
+<rect width="1100" height="560" fill="#f8fafc"/>
+<g font-family="Arial, sans-serif" fill="#0f172a" text-anchor="middle">
+<text x="550" y="42" font-size="27" font-weight="bold">Архитектура WeatherHealth</text>
+<rect x="50" y="110" width="260" height="150" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="180" y="145" font-size="21" font-weight="bold">Мобильное приложение</text>
+<text x="180" y="180" font-size="17">Kotlin · Jetpack Compose</text><text x="180" y="207" font-size="16">MVVM · Clean Architecture</text><text x="180" y="234" font-size="16">Ktor · Firebase SDK</text>
+<rect x="420" y="110" width="260" height="150" rx="16" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+<text x="550" y="145" font-size="21" font-weight="bold">Backend</text>
+<text x="550" y="180" font-size="17">Python · FastAPI</text><text x="550" y="207" font-size="16">Обработка и интеграции</text><text x="550" y="234" font-size="16">Рекомендации · API</text>
+<rect x="790" y="80" width="260" height="115" rx="16" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<text x="920" y="115" font-size="20" font-weight="bold">Внешние источники</text><text x="920" y="148" font-size="16">Open-Meteo · NOAA</text><text x="920" y="174" font-size="16">Погода · Kp-индекс</text>
+<rect x="790" y="270" width="260" height="115" rx="16" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+<text x="920" y="305" font-size="20" font-weight="bold">Firebase</text><text x="920" y="338" font-size="16">Firestore · Auth</text><text x="920" y="364" font-size="16">FCM · данные и уведомления</text>
+<rect x="420" y="350" width="260" height="130" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+<text x="550" y="385" font-size="20" font-weight="bold">Аналитический модуль</text><text x="550" y="418" font-size="16">pandas · numpy</text><text x="550" y="444" font-size="16">Logistic Regression · joblib</text><text x="550" y="468" font-size="15">APScheduler</text>
+<g stroke="#334155" stroke-width="3" fill="none" marker-end="url(#a)">
+<path d="M310 185 H410"/><path d="M680 150 H780"/><path d="M680 220 C730 220 730 325 780 325"/><path d="M550 260 V340"/><path d="M420 415 C350 415 350 260 300 240"/>
+</g>
+<g font-size="14" fill="#334155"><text x="360" y="172">HTTPS / API</text><text x="735" y="135">запросы</text><text x="730" y="285">данные</text><text x="565" y="300">признаки</text><text x="355" y="365">прогноз</text></g>
+<text x="550" y="530" font-size="14" fill="#475569">Схема отражает логические компоненты, а не точные сетевые адреса или API-маршруты.</text>
+</g></svg>

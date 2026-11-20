@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420" viewBox="0 0 1100 420">
+<defs><marker id="b" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#334155"/></marker></defs>
+<rect width="1100" height="420" fill="#f8fafc"/>
+<g font-family="Arial, sans-serif" text-anchor="middle" fill="#0f172a">
+<text x="550" y="42" font-size="27" font-weight="bold">Основной пользовательский сценарий</text>
+<g stroke="#2563eb" stroke-width="2" fill="#dbeafe">
+<rect x="35" y="125" width="150" height="105" rx="14"/><rect x="225" y="125" width="150" height="105" rx="14"/>
+<rect x="415" y="125" width="150" height="105" rx="14"/><rect x="605" y="125" width="150" height="105" rx="14"/>
+<rect x="795" y="125" width="150" height="105" rx="14"/>
+</g>
+<g font-size="18" font-weight="bold">
+<text x="110" y="165">Регистрация</text><text x="110" y="192">и вход</text>
+<text x="300" y="165">Анкета</text><text x="300" y="192">и профиль</text>
+<text x="490" y="165">Запись</text><text x="490" y="192">в дневник</text>
+<text x="680" y="165">Прогноз</text><text x="680" y="192">риска</text>
+<text x="870" y="165">Причины и</text><text x="870" y="192">рекомендации</text>
+</g>
+<g stroke="#334155" stroke-width="3" fill="none" marker-end="url(#b)">
+<path d="M185 178 H215"/><path d="M375 178 H405"/><path d="M565 178 H595"/><path d="M755 178 H785"/>
+<path d="M870 230 V300 H490 V240"/>
+</g>
+<g font-size="16"><text x="550" y="335">Повторное ведение дневника уточняет персональную историю</text><text x="550" y="370" fill="#475569" font-size="14">Персональная модель обучается после накопления 10 записей метео-дневника.</text></g>
+</g></svg>

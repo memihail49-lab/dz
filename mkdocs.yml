@@ -1,0 +1,15 @@
+site_name: WeatherHealth — документация
+site_description: Руководство пользователя и техническая справка WeatherHealth
+site_dir: site
+docs_dir: docs
+nav:
+  - Главная: index.md
+  - Быстрый старт: quick-start.md
+  - Установка и настройка: installation.md
+  - Руководство пользователя: user-guide.md
+  - Архитектура: architecture.md
+  - Справочник: reference.md
+  - Устранение неисправностей: troubleshooting.md
+theme:
+  name: readthedocs
+  language: ru
